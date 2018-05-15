@@ -1,0 +1,17 @@
+USERNAME, TIMESTAMP, ACTION, RESOURCE
+fzalcala, 04/26/2017 12:33:15PM, sort, ICD-9 Code 196
+fzalcala, 07/03/2017 12:36:05AM, sort, ICD-9 Code 196
+quhundley, 08/04/2017 11:01:45AM, sort, ICD-9 Code 196
+fzalcala, 08/10/2017 05:10:54AM, sort, ICD-9 Code 196
+fzalcala, 08/26/2017 08:15:06AM, sort, ICD-9 Code 196
+quhundley, 09/21/2017 08:50:13AM, import, office visit OV04312
+fzalcala, 10/24/2017 11:38:02AM, sort, ICD-9 Code 196
+fzalcala, 11/20/2017 11:38:22AM, sort, ICD-9 Code 196
+fzalcala, 05/04/2015 02:09:40PM, sort, ICD-9 Code 196
+fzalcala, 06/09/2015 06:26:04AM, sort, ICD-9 Code 196
+quhundley, 07/18/2015 07:57:42PM, sort, ICD-9 Code 196
+fzalcala, 10/04/2015 12:17:49PM, sort, ICD-9 Code 196
+quhundley, 02/04/2016 08:49:22AM, sort, ICD-9 Code 196
+fzalcala, 08/04/2016 06:57:34AM, resolve, message M2964
+fzalcala, 10/07/2016 07:08:47AM, sort, ICD-9 Code 196
+quhundley, 11/20/2016 02:07:54PM, sort, ICD-9 Code 196
